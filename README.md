@@ -1,2 +1,1 @@
-# Country Name in Gilaki
-
+# A List of Countries in Gilaki
